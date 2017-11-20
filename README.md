@@ -1,2 +1,2 @@
-# MBA-Analytics-em-Big-Data
-FIA
+# Social Networks
+Handling with Social Network Data :)
